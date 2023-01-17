@@ -1,0 +1,119 @@
+// ERRORS
+export const EMPTY_ERRORS = 'EMPTY_ERRORS';
+export const GET_ERRORS = 'GET_ERRORS';
+
+// ADMIN
+export const ADD_ADMIN = 'ADD_ADMIN';
+export const BEFORE_ADMIN = 'BEFORE_ADMIN';
+export const LOGIN_ADMIN = 'LOGIN_ADMIN';
+export const GET_ADMIN = 'GET_ADMIN';
+export const GET_ADMINS = 'GET_ADMINS';
+export const UPDATE_ADMIN = 'UPDATE_ADMIN';
+export const DELETE_ADMIN = 'DELETE_ADMIN';
+export const UPDATE_PASSWORD = 'UPDATE_PASSWORD';
+export const FORGOT_PASSWORD = 'FORGOT_PASSWORD';
+export const RESET_PASSWORD = 'RESET_PASSWORD';
+export const GET_USER_VERIFY = 'GET_USER_VERIFY';
+export const BEFORE_USER_VERIFY = 'BEFORE_USER_VERIFY';
+
+
+// ROLES
+export const ADD_ROLE = 'ADD_ROLE';
+export const UPDATE_ROLE = 'UPDATE_ROLE';
+export const DELETE_ROLE = 'DELETE_ROLE';
+export const GET_ROLE = 'GET_ROLE';
+export const GET_ROLES = 'GET_ROLES';
+export const BEFORE_ROLE = 'BEFORE_ROLE';
+export const BEFORE_PERMISSION = 'BEFORE_PERMISSION';
+export const GET_PERMISSION = 'GET_PERMISSION';
+export const SET_LOADER_ROLE = 'SET_LOADER_ROLE';
+export const REMOVE_LOADER_ROLE = 'REMOVE_LOADER_ROLE';
+
+
+// CATEGORIES
+export const BEFORE_CATEGORY = 'BEFORE_CATEGORY';
+export const GET_CATEGORIES = 'GET_CATEGORIES';
+export const GET_CATEGORY = 'GET_CATEGORY';
+export const UPSERT_CATEGORY = 'UPSERT_CATEGORY';
+export const DELETE_CATEGORY = 'DELETE_CATEGORY';
+
+// USERS
+export const BEFORE_USER = 'BEFORE_USER';
+export const GET_USERS = 'GET_USERS';
+export const GET_USER = 'GET_USER';
+export const UPSERT_USER = 'UPSERT_USER';
+export const DELETE_USER = 'DELETE_USER';
+
+// COLLECTION
+export const BEFORE_COLLECTION = 'BEFORE_COLLECTION';
+export const GET_COLLECTION = 'GET_COLLECTION';
+export const GET_COLLECTIONS = 'GET_COLLECTIONS';
+export const UPSERT_COLLECTION = 'UPSERT_COLLECTION';
+export const DELETE_COLLECTION = 'DELETE_COLLECTION';
+
+// NFT
+export const BEFORE_NFT = 'BEFORE_NFT';
+export const GET_NFTS = 'GET_NFTS';
+export const GET_NFT = 'GET_NFT';
+export const DELETE_NFT = 'DELETE_NFT';
+export const UPDATE_NFT_SETTINGS = 'UPDATE_NFT_SETTINGS'; 
+
+// Auction
+export const BEFORE_AUCTION = 'BEFORE_AUCTION';
+export const GET_AUCTION = 'GET_AUCTION';
+
+// Emails
+export const GET_EMAILS = 'GET_EMAILS';
+export const GET_EMAIL = 'GET_EMAIL';
+export const BEFORE_EMAIL = 'BEFORE_EMAIL';
+export const UPDATE_EMAIL = 'UPDATE_EMAIL';
+
+// Settings
+export const GET_SETTINGS = 'GET_SETTINGS';
+export const EDIT_SETTINGS = 'EDIT_SETTINGS';
+export const BEFORE_SETTINGS = 'BEFORE_SETTINGS';
+
+// FAQS
+export const GET_FAQS = 'GET_FAQS'
+export const BEFORE_FAQ = 'BEFORE_FAQ'
+export const DELETE_FAQ = 'DELETE_FAQ'
+export const CREATE_FAQ = 'CREATE_FAQ'
+export const GET_FAQ = 'GET_FAQ'
+export const EDIT_FAQ = 'EDIT_FAQ'
+
+// CONTACTS
+export const BEFORE_CONTACT = 'BEFORE_CONTACT';
+export const GET_CONTACTS = 'GET_CONTACTS';
+export const EDIT_CONTACT = 'EDIT_CONTACT';
+
+// ACTIVITY
+export const BEFORE_ACTIVITY = 'BEFORE_ACTIVITY'
+export const GET_ACTIVITIES = 'GET_ACTIVITIES'
+
+// DASHBOARD
+export const BEFORE_DASHBOARD = 'BEFORE_DASHBOARD'
+export const GET_DASHBOARD = 'GET_DASHBOARD'
+
+//CONTENT MANAGEMENT
+export const GET_CONTENT_PAGE = 'GET_CONTENT_PAGE'
+export const GET_CONTENT_PAGES = 'GET_CONTENT_PAGES'
+export const EDIT_CONTENT_PAGE = 'EDIT_CONTENT_PAGE'
+export const DELETE_CONTENT_PAGE = 'DELETE_CONTENT_PAGE'
+export const ADD_CONTENT_PAGE = 'ADD_CONTENT_PAGE'
+export const BEFORE_CONTENT = 'BEFORE_CONTENT'
+
+// NFTs REPORTING
+export const GET_REPORTINGS = 'GET_REPORTINGS'
+export const GET_REPORT = 'GET_REPORT'
+export const EDIT_REPORT = 'EDIT_REPORT'
+export const DELETE_REPORT = 'DELETE_REPORT'
+export const BEFORE_REPORT = 'BEFORE_REPORT'
+export const ADD_REPORT_RESPONSE = 'ADD_REPORT_RESPONSE'
+export const GET_REPORT_MESSAGES = 'GET_REPORT_MESSAGES'
+
+// NEWSLETTER 
+export const VIEW_SUBSCRIPTIONS = 'VIEW_SUBSCRIPTIONS'
+export const BEFORE_SUBSCRIPTION = 'BEFORE_SUBSCRIPTION'
+
+
+
